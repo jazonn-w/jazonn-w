@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jazonn-w, trying to turn over a new leaf
 - 👀 I’m interested in the world of computers and the magic that code can bring
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
